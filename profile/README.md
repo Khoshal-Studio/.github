@@ -1,5 +1,6 @@
 ## Hi there 👋
-Khoshal Studio is a independent game development studio based in Australia.
+Khoshal Studio is a independent game development studio based in Australia. 
+<br>
 Our current project is Darknights, a ROBLOX tower-defense RPG themed around science fantasy.
 
 ## Social 
